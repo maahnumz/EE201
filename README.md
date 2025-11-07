@@ -2,9 +2,8 @@
 **University of Washington | Autumn 2023**  
 Instructor: Prof. Serena Eley 
 
----
 
-## 🧠 Overview
+##  Overview
 This repository contains all my completed projects and lab exercises from **EE 201: Computer Hardware Skills**, a hands-on course combining **circuit design**, **mechanical modeling**, and **embedded programming**.
 
 Each branch in this repository represents one lab from the course:
@@ -16,11 +15,10 @@ Each branch in this repository represents one lab from the course:
 
 The projects progress from **electronic design** → **3D fabrication** → **embedded systems**, providing a full hardware development workflow.
 
----
 
-## 🧩 Labs and Branch Descriptions
+##  Labs and Branch Descriptions
 
-### 🔹 **Lab 2: PCB Design – 555 Timer Oscillator**
+###  **Lab 2: PCB Design – 555 Timer Oscillator**
 Branch: [`PCB_Design`](../../tree/PCB_Design)
 
 Designed and routed a 555-timer astable oscillator circuit in **KiCad**, generating Gerber and drill files for manufacturing.  
@@ -35,9 +33,8 @@ Included labeled footprints, ground planes, and silkscreen name tag.
 **Tools:** KiCad 7  
 **Key Concepts:** RC timing, 555 astable operation, PCB design workflow  
 
----
 
-### 🔹 **Lab 3: 3D Modeling – PCB Enclosure**
+###  **Lab 3: 3D Modeling – PCB Enclosure**
 Branch: [`FreeCad`](../../tree/FreeCad)
 
 Created a **60×60 mm** 3D-printed enclosure in **FreeCAD** to house the timer PCB.  
@@ -51,9 +48,8 @@ Included mounting holes, top cover design, and a connector pocket.
 **Tools:** FreeCAD, Fusion 360 (for validation)  
 **Key Concepts:** Parametric design, mechanical tolerances, CAD-to-fabrication pipeline  
 
----
 
-### 🔹 **Lab 4: Arduino Exercises – Digital I/O and PWM**
+###  **Lab 4: Arduino Exercises – Digital I/O and PWM**
 Branch: [`Arduino`](../../tree/Arduino)
 
 Programmed a series of Arduino circuits to explore digital input/output, PWM, and serial communication.
@@ -68,26 +64,23 @@ Programmed a series of Arduino circuits to explore digital input/output, PWM, an
 **Tools:** Arduino IDE, Uno R3 Board  
 **Key Concepts:** PWM, digitalRead/write, serial I/O, resistive sensing  
 
----
 
-### 🔹 **Extra Project: Arduometer**
+###  **Extra Project: Arduometer**
 Branch: [`Arduometer`](../../tree/Arduometer)
 
 An optional Arduino exercise involving analog sensor reading and visualization.  
 Demonstrates multi-sensor integration and serial plotting.
 
----
 
-## 🛠 Skills Demonstrated
+##  Skills Demonstrated
 - **Circuit Design & Simulation:** KiCad schematic capture, routing, ERC/DRC verification  
 - **3D CAD Modeling:** FreeCAD enclosure design, STEP export for fabrication  
 - **Embedded Programming:** Arduino IDE, PWM, ADC, and I/O control  
 - **Hardware Documentation:** Organized project folders, Git version control  
 - **Cross-Disciplinary Integration:** Combined electrical, mechanical, and firmware design  
 
----
 
-## 📜 Repository Structure
+##  Repository Structure
 
 | Branch | Description |
 |:--------|:-------------|
@@ -98,20 +91,6 @@ Demonstrates multi-sensor integration and serial plotting.
 | `Arduometer` | Bonus Arduino project |
 | `aboutMe` | Initial GitHub setup practice |
 
----
 
-## 📷 Example Media
-| PCB Layout | 3D Enclosure | Arduino Circuit |
-|-------------|--------------|----------------|
-| ![](images/pcb_layout.png) | ![](images/enclosure_model.png) | ![](images/arduino_setup.png) |
-
-*(You can add screenshots or renders in the `images/` folder once you upload them.)*
-
----
-
-## 📄 License
-MIT License – for educational and reference use.  
-
----
 
 
