@@ -7,7 +7,7 @@ Instructor: Prof. Serena Eley
 This repository contains all my completed projects and lab exercises from **EE 201: Computer Hardware Skills**, a hands-on course combining **circuit design**, **mechanical modeling**, and **embedded programming**.
 
 Each branch in this repository represents one lab from the course:
-- `PCB_Design` → PCB design of a 555 Timer Oscillator using **KiCad**
+- `PCB_Design` → PCB design of a 555 Timer Oscillator using **KiCad** (zip file)
 - `FreeCad` → 3D mechanical enclosure design for the PCB using **FreeCAD**
 - `Arduino` → Digital and analog circuit programming with **Arduino Uno**
 - `Arduometer` → Bonus exercise involving sensor and meter integration
