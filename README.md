@@ -1,6 +1,6 @@
 # EE 201 – Computer Hardware Skills  
 **University of Washington | Autumn 2023**  
-Instructor: Prof. Swetak Patel  
+Instructor: Prof. Serena Eley 
 
 ---
 
